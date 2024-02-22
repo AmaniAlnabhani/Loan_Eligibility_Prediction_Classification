@@ -11,5 +11,5 @@
 ** How to Run Loan web app using Streamlit **
 
   1.Left click in environment name and choose "open Terminal".
-  2.Run "streamlit run web-app-path\web-app-name.py".
+  2.Run streamlit run "web-app-path\web-app-name.py".
   3.Enter information and click show result button.
